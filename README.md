@@ -1,6 +1,6 @@
 # doubly linked list
 
-a doubly linked list implementation was written in ANSI C to get more familiar with pointers.
+a doubly linked list implementation that was written in ANSI C to get more familiar with pointers.
 
 
 
