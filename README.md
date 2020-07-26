@@ -1,5 +1,7 @@
 # doubly linked list
 
+[Doubly linked list - Wikipedia](https://en.wikipedia.org/wiki/Doubly_linked_list)
+
 a doubly linked list implementation that was written in ANSI C to get more familiar with pointers.
 
 
